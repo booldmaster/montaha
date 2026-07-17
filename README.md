@@ -1,17 +1,11 @@
-# Quartz v5
+# Montaha
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> “Is the wise man truly wise to view the mediocre majority as defective? Because without them, there is no us” — Blessed One of Wisdom, Mahakusaladhamma
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+**Montaha** is a personal writing projects compiling my works and findings that I found either from myself or others regarding Genshin Impact lore, stories, and it's related particulars. 
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Read the preamble and get started
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+This project is mainly maintained in Bahasa Indonesia with future plan of English adaptation.
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Find me on Discord: booldomort
