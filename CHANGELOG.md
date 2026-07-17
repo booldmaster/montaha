@@ -7,8 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-*No changes yet*
+### Added
 
+- GitHub Action workflow for deploying Quartz on GitHub Pages
+- 
+
+### Changed
+
+- Renamed master branch from `v5` to `main`
+- Merged Pull Requests from Dependabot regarding ci-dependencies and production-dependencies 
+
+---
 ## [0.1.0] - 2026-07-12
 
 ### Added
@@ -21,3 +30,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Updated npm packages module to latest
 - Updated quartz plugins to latest
+
+---
