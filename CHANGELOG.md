@@ -10,15 +10,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - GitHub Action workflow for deploying Quartz on GitHub Pages
-- 
+- Abyssal Theme for Quartz render
 
 ### Changed
 
 - Renamed master branch from `v5` to `main`
-- Merged Pull Requests from Dependabot regarding ci-dependencies and production-dependencies 
+- Merged Pull Requests from Dependabot regarding ci-dependencies and production-dependencies
+- Rewrite [README.md] 
 
 ---
-## [0.1.0] - 2026-07-12
+## [0.1.0](https://github.com/booldmaster/montaha/releases/tag/v0.1.0) - 2026-07-12
 
 ### Added
 
