@@ -10,7 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - GitHub Action workflow for deploying Quartz on GitHub Pages
-- Abyssal Theme for Quartz render
+- Abecedarium Theme for Quartz render
+- New notes
+- New Bases foundation
 
 ### Changed
 
